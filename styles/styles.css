@@ -203,6 +203,8 @@ margin-bottom: 50px;
         margin-bottom: 10px;
         
     }
+
+    
     .contact-type{
         font-style: normal;
         font-weight: 700;
@@ -221,6 +223,11 @@ margin-bottom: 50px;
         line-height: 24px;
         color: #6b7078;
         
+    }
+    .contact-line{
+        color: #F5F7FA;
+        text-align: center;
+
     }
     .tech-skills-list,
     .soft-skills-list

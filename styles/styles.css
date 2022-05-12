@@ -185,7 +185,7 @@ margin-bottom: 50px;
     }
     
     .contacts,.tech-skills,.soft-skills {
-        margin-left: 40px;}
+        margin: 0 40px;}
     .contacts{
         margin-bottom: 50px;
     }
@@ -244,10 +244,12 @@ margin-bottom: 50px;
     {
         color: #FB6D3A;
     }
-    /* Media */
 
-    @media (max-widht: 1200px){
-        .projects-list{
-            font-size: 5px;
+    /* Media
+    =========== */
+    @media (max-width:800px) {
+        .about-name{
+            font-size: 20px;
         }
+
     }

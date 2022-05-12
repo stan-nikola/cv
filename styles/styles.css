@@ -244,3 +244,10 @@ margin-bottom: 50px;
     {
         color: #FB6D3A;
     }
+    /* Media */
+
+    @media (max-widht: 1200px){
+        .projects-list{
+            font-size: 5px;
+        }
+    }

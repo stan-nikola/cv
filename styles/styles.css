@@ -256,9 +256,9 @@ margin-bottom: 50px;
 
     /* Media
     =========== */
-    @media (max-width:800px) {
-        .about-name{
-            font-size: 20px;
+    /* @media (max-width:450px) {
+        .projects-list{
+            font-size: 10px;
         }
 
-    }
+    } */

@@ -202,11 +202,15 @@ body {
 
 .phone-pic {}
 
-.contacts,
+/* .contacts{
+
+    margin: 0 0 40px 10px;
+} */
+
 .tech-skills,
-.soft-skills {
-    margin: 0 40px;
-}
+.soft-skills, 
+.contacts{
+    margin: 0  40px;}
 
 .contacts {
     margin-bottom: 50px;
@@ -251,12 +255,7 @@ body {
 
 }
 
-.contact-line {
-    color: #d1daea;
-    text-align: center;
-    margin-bottom: 30PX;
 
-}
 
 .tech-skills-list,
 .soft-skills-list {
@@ -281,9 +280,9 @@ body {
 
 /* Media
     =========== */
-@media (max-width: 450px) {
+/* @media (max-width: 450px) {
     .projects-list {
         font-size: 7px;
     }
 
-}
+} */
